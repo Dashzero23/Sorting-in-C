@@ -1,4 +1,3 @@
-# Assignment 3
 This program implements different sorting algorithms
 
 ## Build
@@ -44,7 +43,3 @@ This contains the implementation of the 'set' to track the which sort to use.
 This contains the implementation of a type Struct variable to keep track of the data of each sort.
 ### Makefile
 Makefile has all the commands to compile and clean the files
-### DESIGN.pdf
-This file has information about the design of all the implementation as well as sorting.c. This also gives the idea on how to run the program.
-### WRITEUP.pdf
-Include the plots that is produced using the bash script, as well as discussion on the performance of each.
